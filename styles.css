@@ -5,30 +5,30 @@ body {
 }
 
 h1 {
-  padding: 50px 0 0 50px;
+  padding: 3.125rem 0 0 3.125rem;
   color: #2CB2B3;
 }
 
 .subtitle {
-  padding: 10px 0 10px 50px;
+  padding: 0.625rem 0 0.625rem 3.125rem;
   color: #C1DF31;
 }
 
 p {
-  padding-left: 50px;
+  padding-left: 3.125rem;
 }
 
 .top-description {
-  letter-spacing: 1.5px;
-  line-height: 15px;
+  letter-spacing: 0.09375rem;
+  line-height: 0.9375rem;
   color: #A9A9A9;
 }
 
 .top-half {
   border-top-left-radius: 5%;
   border-top-right-radius: 5%;
-  line-height: 15px;
-  padding-bottom: 25px;
+  line-height: 0.9375rem;
+  padding-bottom: 1.5625rem;
 }
 
 .second-half {
@@ -38,16 +38,16 @@ p {
 .left-info-box {
   background-color: #2CB2B3;
   width: 50%;
-  height: 300px;
+  height: 18.75rem;
   text-align: center;
-  line-height: 50px;
+  line-height: 3.125rem;
   display: inline-block;
   color:#FFFEFE;
   border-bottom-left-radius: 5%;
 }
 
 .left-box-header {
-  padding-top: 25px;
+  padding-top: 1.5625rem;
   text-align: justify;
   margin-bottom: 0;
   padding-left: 25%;
@@ -55,23 +55,23 @@ p {
 }
 
 .l-box-description {
-  line-height: 40px;
+  line-height: 2.5rem;
   text-align: justify;
   padding-left: 25%;
-  padding-bottom: 15px;
+  padding-bottom: 0.9375rem;
 }
 
 .right-info-box {
   background-color:#4ABEBD;
   width: 50%;
-  height: 300px;
+  height: 18.75rem;
   text-align: center;
   color:#FFFEFE;
   border-bottom-right-radius: 5%;
 }
 
 .right-box-header {
-  padding-top: 25px;
+  padding-top: 1.5625rem;
   text-align: justify;
   margin-bottom: 0;
   padding-left: 20%;
@@ -80,28 +80,27 @@ p {
 .r-box-description {
   display: inline-block;
   text-align: justify;
-  line-height: 25px;
-  padding-bottom: 25px;
+  line-height: 1.5625rem;
+  padding-bottom: 1.5625rem;
   position: relative;
-  right: 50px;
+  right: 3.125rem;
 }
 
 .price {
-  font-size: 29px;
+  font-size: 1.8125rem;
 }
 
 .button-icon {
   background-color: #C1DF31;
-  width: 300px;
+  width: 18.75rem;
   text-align: center;
   color: #FFFEFE;
-  padding: 10px 90px;
-  border-radius: 5px;
+  padding: 0.625rem 5.625rem;
+  border-radius: 0.3125rem;
   margin: 0 auto;
-  margin-top: 35px;
+  margin-top: 2.1875rem;
   text-decoration: none;
-  font-size: 18px;
+  font-size: 1.125rem;
   position: relative;
-  right:10px
-
+  right:4.625rem;
 }
