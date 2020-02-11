@@ -1,7 +1,11 @@
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+
 body {
   font-family: 'Karla', sans-serif;
   border-left: 0;
   margin: 0;
+  background-color: #FFFEFE;
 }
 
 h1 {
