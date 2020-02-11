@@ -95,7 +95,8 @@ p {
 
 .button-icon {
   background-color: #C1DF31;
-  width: 18.75rem;
+  width: 5.75rem;
+  height: 2rem;
   text-align: center;
   color: #FFFEFE;
   padding: 0.625rem 5.625rem;
@@ -103,7 +104,8 @@ p {
   margin: 0 auto;
   margin-top: 2.1875rem;
   text-decoration: none;
-  font-size: 1.125rem;
-  position: relative;
-  right:0.825rem;
+  font-size: 1.425rem;
+  position: absolute;
+  right:40.825rem;
+  bottom:18rem;
 }
