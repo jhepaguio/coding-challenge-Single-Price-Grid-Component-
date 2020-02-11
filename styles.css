@@ -5,7 +5,6 @@ body {
   font-family: 'Karla', sans-serif;
   border-left: 0;
   margin: 0;
-  background-color: #FFFEFE;
 }
 
 h1 {
@@ -86,8 +85,8 @@ p {
   text-align: justify;
   line-height: 1.5625rem;
   padding-bottom: 1.5625rem;
-  position: relative;
-  right: 3.125rem;
+  padding-right: 6rem;
+  right: 4.125rem;
 }
 
 .price {
@@ -106,5 +105,5 @@ p {
   text-decoration: none;
   font-size: 1.125rem;
   position: relative;
-  right:4.625rem;
+  right:0.825rem;
 }
