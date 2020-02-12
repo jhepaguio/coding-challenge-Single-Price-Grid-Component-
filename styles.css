@@ -89,6 +89,7 @@ p {
   line-height: 1.5625rem;
   padding-bottom: 2.5625rem;
   padding-right: 6rem;
+  padding-left: 1rem;
   right: 4.125rem;
   max-width: 13.0625rem;
   max-height: 12.5rem;
@@ -101,8 +102,8 @@ p {
 
 .button-icon {
   background-color: #C1DF31;
-  width: 5.75rem;
-  height: 2rem;
+  max-width: 5.75rem;
+  max-height: 2rem;
   text-align: center;
   color: #FFFEFE;
   padding-top: 0.625rem;
